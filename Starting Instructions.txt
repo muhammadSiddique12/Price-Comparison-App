@@ -1,0 +1,9 @@
+Get the IP Address of your PC on which you are runnning your server
+and replace "YOUR_IP_ADDRESS" variable with your ip address.
+Now, run your app, hopefully it will work fine.
+Once you get the data which in below mentioned format, you need to configure your flatlist accordingly.
+
+{
+	ali_express_products:[{name:"Iphone",link:"https://...",price:"Rs.120000"},{}...]
+	daraz_products:[{name:"Iphone",link:"https://...",price:"Rs.120000"},{}...]
+}
